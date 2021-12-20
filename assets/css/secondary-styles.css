@@ -5,7 +5,7 @@
     margin-bottom: 40px;
 }
 
-.hero h2 {
+.page-title {
     color: #fce138;
     display: inline-block;
     border-bottom: 4px solid;
@@ -18,7 +18,7 @@
 
 .secondary-content {
     width: 80%;
-    margin: 50px;
+    margin: auto;
     color: #024e76;
 }
 
@@ -39,5 +39,5 @@
 
 .secondary-content li {
     color: #39a6b2;
-    margin: 10px 0px;
+    margin: 10px 0 10px 0;
 }
